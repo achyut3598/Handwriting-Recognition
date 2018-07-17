@@ -7,3 +7,7 @@ There are three different types of files in this repository:
 TensorReaderGUI: The GUI for the project and main file. Allows the user to interact with our TensorFlow MNIST prediction model.
 TensorReader_digit: The TensorFlow MNIST prediction model code.
 TensorReader_letter: The TensorFlow modified MNIST dataset by Udacity prediction model code.
+
+The digit reader has an accuracy of 96% while the letter reader is 80% accurate.
+
+We recommend installing Anaconda and Pillow to run this project.
